@@ -1,0 +1,38 @@
+.abc {
+ 	border-radius: 50px;
+ 	width: 60px;
+ 	height: 60px;
+}
+
+.user-container {
+    display: flex;
+	align-items: center;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+.name {
+	padding-left: 10px;
+	}
+
+.bold {
+	display: inline-block;
+	font-weight: bold;
+	font-style:;
+	margin: 2px;
+
+}
+
+.abcd {
+	margin-bottom: 10px;
+}
+span {
+	color: #f9c032;
+	border: red;
+}
+.color{
+	color: grey;
+}
+p{
+	margin: 2px;
+}

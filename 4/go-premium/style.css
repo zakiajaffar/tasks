@@ -1,0 +1,52 @@
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: separate;
+    border-spacing:10px 3px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 20px;
+     }
+
+    #customers tr: first-child(1) {
+        text-align: left;
+        background-color: #4CAF50;
+        color: white;
+    }
+    .Year:first-child {
+        background-color: black;
+        color: white;
+        font-size: 25px;
+    }
+    .pro
+    {
+        background-color: green;
+    }
+    tr{
+        text-align: center;
+    }
+    th {
+        padding: 30px;
+        font-size: 20px;
+
+    }
+    button{
+        background-color: green;
+        padding: 10px 30px;
+        color: white;
+        border: none;
+        font-size: 20px;
+
+    }
+    .color{
+        background-color: #edeef0;
+
+    }
+    .colors{
+         background-color: #edeef0;
+    }

@@ -1,0 +1,23 @@
+
+.circle {
+border-radius: 50%;
+width: 200px;
+height: 200px;
+background-color:#2996f3;
+}
+
+.circle::before {
+  content: "+";
+  height:200px;
+  width:200px;
+  font-size:250px;
+  display:flex;
+  flex-direction:row;
+  align-items:center;
+  justify-content:center;
+  font-family:courier;
+  color:white;
+}
+body{
+	padding:200px 500px;
+}
